@@ -12,4 +12,4 @@ We created a solar system in a window 800x800 which shuts down with <Q>.
   
 We move in the X-axis with **W** and **X** buttons, in the Y-axis with **A** and **D** buttons
   
-and we can do zoom in with <+> and zoom out with <->.
+and we can do zoom in with <+>(plus) and zoom out with <->(minus) buttons.
