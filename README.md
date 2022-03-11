@@ -1,5 +1,5 @@
-# :sunny::ringed_planet:Opengl-SolarSystem :ringed_planet:
-Project of creating a simple solar system with 2 planets using C++ and the Opengl library -UOI Project
+# Opengl-SolarSystem :ringed_planet:
+:sunny::ringed_planet:Project of creating a simple solar system with 2 planets using C++ and the Opengl library -UOI Project
 
 ## Prerequisite
 - C++ 
