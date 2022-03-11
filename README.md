@@ -8,8 +8,6 @@ Project of creating a simple solar system with 2 planets using C++ and the Openg
 
 ## Problem Description
 
-We created a solar system in a window 800x800 which shuts down with <Q>.
+We created a solar system in a window 800x800 which shuts down with **Q** keyboard button.
   
-We move in the X-axis with **W** and **X** buttons, in the Y-axis with **A** and **D** buttons
-  
-and we can do zoom in with <+>(plus) and zoom out with <->(minus) buttons.
+We move in the X-axis with **W** and **X** buttons, in the Y-axis with **A** and **D** and we can do zoom in with <+>(plus) and zoom out with <->(minus) keyboard buttons.
