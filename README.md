@@ -4,7 +4,7 @@ Project of creating a simple solar system with 2 planets using C++ and the Openg
 ## Prerequisite
 - C++ 
 - OpenGL Download [here](https://opengl.org/)
-- GLFW GLEW GLM Download and setup [here](https://www.wikihow.com/Set-Up-OpenGL-GLFW-GLEW-GLM-on-a-Project-with-Visual-Studio)
+- GLFW GLEW GLM Download and Setup [here](https://www.wikihow.com/Set-Up-OpenGL-GLFW-GLEW-GLM-on-a-Project-with-Visual-Studio)
 
 ## Controls :joystick:
 
